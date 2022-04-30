@@ -1,0 +1,19 @@
+{
+  "name": "launchx_app",
+  "version": "1.0.0",
+  "description": "primer_proyecto_npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrieltorres519/my_launch_app.git"
+  },
+  "author": "Gabriel_Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrieltorres519/my_launch_app/issues"
+  },
+  "homepage": "https://github.com/gabrieltorres519/my_launch_app#readme"
+}
