@@ -2,9 +2,9 @@ const MissionCommander = require("./app/MissionCommander");
 
 
 
-objeto1 = new MissionCommander("Juan");
-objeto2 = new MissionCommander("Pedro");
-objeto3 = new MissionCommander("Pablo");
+const objeto1 = new MissionCommander("Juan");
+const objeto2 = new MissionCommander("Pedro");
+const objeto3 = new MissionCommander("Pablo");
 
 
 console.log(objeto1.name);
